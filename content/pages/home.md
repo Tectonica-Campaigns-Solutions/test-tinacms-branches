@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starter
 blocks:
-  - headline: MASTER BRANCH... !!!!!
+  - headline: MASTER BRANCH... !!!!!!
     text: >
       ## **Editors**
 
